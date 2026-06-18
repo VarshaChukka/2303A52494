@@ -1,0 +1,16 @@
+export const ALLOWED_LOG_PACKAGES = [
+    'api',
+    'backend',
+    'component',
+    'config',
+    'controller',
+    'frontend',
+    'hook',
+    'logger',
+    'middleware',
+    'page',
+    'route',
+    'service',
+    'state',
+    'util',
+];
