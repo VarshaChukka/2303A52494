@@ -1,6 +1,6 @@
 # Campus Notification System
 
-A full-stack notification platform built as part of a campus evaluation assignment.
+A full-stack notification platform .
 
 ## Project Structure
 
